@@ -16,7 +16,7 @@ Repositori ini berisikan Latihan 2 praktikum mata kuliah Desain dan Pemrograman 
 - Membuat class/object SivitasAkademik
   >class ini merupakan child dari class Human dan paretns dari class Mahasiswa yang memiliki 2 atribute private yaitu  asal_universitas, email_edu.
  - Membuat class/object SivitasAkademik
-  >class ini merupakan child dari classSivitasAkademik yang memiliki 3 atribute private yaitu NIM,fakultas, prodi.
+   >class ini merupakan child dari classSivitasAkademik yang memiliki 3 atribute private yaitu NIM,fakultas, prodi.
   
  .
 
