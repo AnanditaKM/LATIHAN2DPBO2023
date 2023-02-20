@@ -9,5 +9,9 @@ Repositori ini berisikan Latihan 2 praktikum mata kuliah Desain dan Pemrograman 
 - Mahasiswa: NIM, nama, jenis_kelamin, fakultas, prodi
 - Human: NIK, nama, jenis_kelamin
 - SivitasAkademik: asal_universitas, email_edu
+
+#Desain Program java
+- Membuat class/object Human 
+  >class ini merupakan parents dari class SivitasAkademik yang memiliki 3 atribute private yaitu NIK, nama, jenis_kelamin.
  .
 
