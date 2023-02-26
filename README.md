@@ -13,10 +13,10 @@ Repositori ini berisikan Latihan 2 praktikum mata kuliah Desain dan Pemrograman 
 # Bahasa
 Menggunakan 4 Bahasa Pemrograman:
 
-Java
-PHP
-C++
-Python
+- Java
+- PHP
+- C++
+- Python
 # UML
   ![uml](https://user-images.githubusercontent.com/100897554/221386579-3b9eed6e-49be-474e-8f97-70ac380ab147.png)
 # Desain Program 
