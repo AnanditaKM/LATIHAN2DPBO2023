@@ -11,7 +11,7 @@ Repositori ini berisikan Latihan 2 praktikum mata kuliah Desain dan Pemrograman 
 - SivitasAkademik: asal_universitas, email_edu
 # UML
   ![uml](https://user-images.githubusercontent.com/100897554/221386579-3b9eed6e-49be-474e-8f97-70ac380ab147.png)
-# Desain Program java
+# Desain Program 
 - Membuat class/object Human 
   >class ini merupakan parents dari class SivitasAkademik yang memiliki 3 atribute private yaitu NIK, nama, jenis_kelamin.
 - Membuat class/object SivitasAkademik
