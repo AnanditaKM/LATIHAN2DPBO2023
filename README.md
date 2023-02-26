@@ -9,6 +9,14 @@ Repositori ini berisikan Latihan 2 praktikum mata kuliah Desain dan Pemrograman 
 - Mahasiswa: NIM,fakultas, prodi
 - Human: NIK, nama, jenis_kelamin
 - SivitasAkademik: asal_universitas, email_edu
+
+# Bahasa
+Menggunakan 4 Bahasa Pemrograman:
+
+Java
+PHP
+C++
+Python
 # UML
   ![uml](https://user-images.githubusercontent.com/100897554/221386579-3b9eed6e-49be-474e-8f97-70ac380ab147.png)
 # Desain Program 
@@ -18,6 +26,12 @@ Repositori ini berisikan Latihan 2 praktikum mata kuliah Desain dan Pemrograman 
   >class ini merupakan child dari class Human dan paretns dari class Mahasiswa yang memiliki 2 atribute private yaitu  asal_universitas, email_edu.
  - Membuat class/object SivitasAkademik
    >class ini merupakan child dari classSivitasAkademik yang memiliki 3 atribute private yaitu NIM,fakultas, prodi.
+ - Inputan data menggunakan hardcode
+
+# Hasil
+
+<img width="217" alt="hasil" src="https://user-images.githubusercontent.com/100897554/221404720-9b8d0398-4b03-4e18-a026-f3385399f12b.png">
+
 
 
  .
